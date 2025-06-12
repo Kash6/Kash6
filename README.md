@@ -14,5 +14,4 @@
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Kash6)
-![LinkedIn Follow](https://img.shields.io/linkedin/follow/kash666?style=social)
 
