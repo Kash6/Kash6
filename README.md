@@ -7,7 +7,6 @@
 ![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kash6&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kash6&layout=compact)
 
-![snake gif](https://github.com/Kash6/Kash6/blob/output/github-contribution-grid-snake.svg)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -17,4 +16,3 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Kash6)
 ![Twitter Follow](https://img.shields.io/twitter/follow/your_handle?style=social)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
