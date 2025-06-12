@@ -1,4 +1,4 @@
-## Hello world
+##  “Ask not what AI can do for you, ask what prompt you gave.”
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Akash;AI+Engineer+%7C+Model+Optimizer;Let's+Build+Smart+Systems!&font=Fira%20Code&center=true&width=440&height=45&color=70a5fd&vCenter=true&pause=1000&size=22" />
@@ -14,5 +14,5 @@
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Kash6)
-![Twitter Follow](https://img.shields.io/twitter/follow/your_handle?style=social)
+![LinkedIn Follow](https://img.shields.io/linkedin/follow/kash666?style=social)
 
